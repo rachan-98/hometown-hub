@@ -125,7 +125,7 @@ hometown-hub/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hometown-hub.git
+git clone https://github.com/rachan-98/hometown-hub.git
 cd hometown-hub
 ```
 
